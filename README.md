@@ -1,16 +1,56 @@
-# React + Vite
+# ⚡ Core Sync
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Conectando processos, automatizando fluxos e transformando dados em decisões inteligentes.**
 
-Currently, two official plugins are available:
+## 💡 Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Core Sync** é uma plataforma desenvolvida para centralizar informações, automatizar processos e facilitar a gestão de operações em um único ambiente.
 
-## React Compiler
+Construído com foco em performance, escalabilidade e experiência do usuário, o projeto apresenta uma interface moderna, navegação intuitiva e uma arquitetura organizada, simulando uma solução utilizada por empresas para acompanhar indicadores e otimizar suas rotinas.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias
 
-## Expanding the ESLint configuration
+<div align="left">
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=FFD62E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+</div>
+
+## ✨ Funcionalidades
+
+* 📊 Dashboard moderno
+* 🔄 Organização de processos
+* 📈 Visualização de indicadores
+* ⚙️ Componentes reutilizáveis
+* 📱 Interface responsiva
+* 🎨 Design inspirado em plataformas corporativas
+
+## 🎯 Objetivo
+
+O projeto foi desenvolvido para praticar a criação de aplicações web modernas, aplicando conceitos de componentização, organização de código, responsividade e construção de interfaces com foco em produtos SaaS.
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento foram explorados conceitos como:
+
+* Arquitetura de aplicações React
+* Componentização
+* Organização de projetos com Vite
+* Responsividade
+* Estruturação de interfaces escaláveis
+* Versionamento com Git e GitHub
+* Boas práticas de desenvolvimento Front-end
+
+---
+
+<div align="center">
+
+### 🚀 Building modern experiences, one component at a time.
+
+Desenvolvido com 💙 por **Sophia Honorato**.
+
+</div>
